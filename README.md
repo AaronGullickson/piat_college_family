@@ -1,4 +1,4 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on College Completion and Family Structure
 
 # Introduction
 
@@ -6,12 +6,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic: 
 
-Describe research topic
+You will use data from the National Longitudinal Survey of Youth 1997 to look at the relationship between four-year college completion and family structure (e.g. two biological parents, step-parents, single parent) as an adolescent. You will also examine how this relationship varies by gender.
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. How does family structure in adolescent affect the likelihood that a person will complete a four-year college degree?
+2. How does the relationship between family structure and college completion vary by gender?
 
 ## Technical Details
 
